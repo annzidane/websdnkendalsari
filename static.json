@@ -1,5 +1,5 @@
 {
-  "root": "public",
+  "root": "application",
   "clean_urls": true,
   "https_only": true,
   "error_page": "error_404.php",
